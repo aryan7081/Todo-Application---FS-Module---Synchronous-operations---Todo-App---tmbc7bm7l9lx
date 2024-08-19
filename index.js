@@ -67,3 +67,6 @@ module.exports = {
   updateTodoSync,
   deleteTodoSync,
 };
+
+export default app;
+
